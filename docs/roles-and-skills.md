@@ -54,3 +54,58 @@ Based on the analysis, the following technical skills are essential for most rol
 - **Understanding of Networking:** Knowledge of how data moves across the internet (HTTP, TCP/IP, DNS, Sockets).
 - **Algorithmic thinking:** Ability to solve complex problems and optimize performance.
 - **English:** Reading technical documentation and communicating in international teams.
+
+## My chosen role
+
+### Role
+
+C++ Software Engineer / Backend Developer
+
+### Skills I already have
+
+- C++ (STL, Templates, Memory Management)
+- JavaScript
+- Python (Basic syntax, scripts, bots)
+- Algorithms & Data Structures (Queues, Stacks, Graphs, Big O)
+- Git (Basic usage, branching, PRs)
+- LaTeX (Documentation)
+- English (Reading technical documentation)
+
+### Skills I clearly lack
+
+- Build Systems (CMake, Make)
+- Networking (Sockets, HTTP, TCP/IP deep dive)
+- Containerization (Docker)
+- Testing Frameworks (GTest/Google Test)
+- Databases (SQL, PostgreSQL basics)
+
+## Job market snapshot
+
+### Job Postings Analysis
+
+1. **Trainee C++ Developer (Yandex)** - [Link to hh.ru](https://hh.ru/vacancy/129767039?query=C%2B%2B+Junior+Developer&hhtmFrom=vacancy_search_list)
+   - Requirements: C++, Algorithms & Data Structures.
+2. **Trainee C++ Developer (Another company)** - [Link to hh.ru](https://hh.ru/vacancy/129448434?query=C%2B%2B+Junior+Developer&hhtmFrom=vacancy_search_list)
+   - Requirements: C, C++ 11+, Linux, IoT, Arduino.
+3. **Data Engineer** - [Link to hh.ru](https://hh.ru/vacancy/128957096?query=software+engineer&hhtmFrom=vacancy_search_list)
+   - Requirements: PostgreSQL, Apache Superset, Clickhouse, dbt, Airflow, Git, Jira, Confluence, Python, Good communication skills, Good English language skills.
+4. **Junior Python Developer** - [Link to hh.ru](https://hh.ru/vacancy/130090481?query=Python+junior&hhtmFrom=vacancy_search_list)
+   - Requirements: Python, pandas, numpy, matplotlib, sklearn, SQL, Jupyter, Git, Excel, Power Query, AI.
+5. **Junior Python Backend Engineer** - [Link to hh.ru](https://hh.ru/vacancy/129320068?query=Python+junior&hhtmFrom=vacancy_search_list)
+   - Requirements: Python, SQLAlchemy, SQL, Databases.
+
+### Skills that appear in several postings
+
+- Linux / Terminal usage
+- SQL / Databases
+- Understanding of Multithreading
+- Docker / Basic DevOps
+
+### Skills specific to a single posting
+
+- QT Framework
+- Specific libraries (Boost, gRPC)
+
+## Personal reflection
+
+I might be a good fit for a backend developer role since that's basically the majority of my work.
