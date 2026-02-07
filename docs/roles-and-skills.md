@@ -103,7 +103,6 @@ C++ Software Engineer / Backend Developer
 
 ### Skills specific to a single posting
 
-- React
 - QT Framework
 - Specific libraries (Boost, gRPC)
 
